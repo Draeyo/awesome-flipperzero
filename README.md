@@ -106,6 +106,7 @@
 - [`WiFi DSTIKE Deauther` Preforms WiFi deauth attacks via a custom ESP8266 module board.](https://github.com/SequoiaSan/FlipperZero-Wifi-ESP8266-Deauther-Module)
 - [`WiFi Deauther Module Flasher` Web flasher for module firmware above.](https://sequoiasan.github.io/FlipperZero-Wifi-ESP8266-Deauther-Module/)
 - [`Skadis holder` Flipper Zero holder for Ikea Skadis.](https://www.thingiverse.com/thing:5434476)
+- [ Flipper Zero Car Mount.](https://www.thingiverse.com/thing:5464899)
 - [`Flipper Zero Boards` ESP32 and NRF24 daughterboards for the Flipper.](https://github.com/DrB0rk/Flipper-Zero-Boards)
 - [`Flipper Zero Car Mount` Uses foam from the original box.](https://www.thingiverse.com/thing:5464899)
 - [`Soft TPU cover` Similar to the official silicone case.](https://www.printables.com/en/model/272676-soft-tpu-flipper-zero-cover)
